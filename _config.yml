@@ -9,11 +9,7 @@ author:
   email: cinfotex@proton.me
 
 plugins:
-  - jemoji
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
-
+  
 collections_dir: all_collections
 collections:
   posts:
