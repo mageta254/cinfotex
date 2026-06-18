@@ -1,6 +1,6 @@
 # ICT SOLUTIONS
 
-> A Jekyll theme for Material You Lovers
+> CINFOTEX ICT SOLUTIONS
 
 [Live Demo](https://sharadcodes.github.io/jekyll-theme-material-you/)
 
