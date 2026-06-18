@@ -1,4 +1,4 @@
-# Jekyll Theme Material You
+# ICT SOLUTIONS
 
 > A Jekyll theme for Material You Lovers
 
